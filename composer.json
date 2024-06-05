@@ -1,5 +1,5 @@
 {
-    "name": "freshbitsweb/laratables",
+    "name": "appolous/laratables",
     "description": "Ajax support of DataTables for Laravel",
     "require": {
         "php": "^8.0",
