@@ -1,16 +1,12 @@
-[![Latest Stable Version](https://poser.pugx.org/freshbitsweb/laratables/v/stable)](https://packagist.org/packages/freshbitsweb/laratables)
-[![Total Downloads](https://poser.pugx.org/freshbitsweb/laratables/downloads)](https://packagist.org/packages/freshbitsweb/laratables)
-[![License](https://poser.pugx.org/freshbitsweb/laratables/license)](https://packagist.org/packages/freshbitsweb/laratables)
-[![StyleCI](https://styleci.io/repos/108421119/shield?branch=master)](https://styleci.io/repos/108421119)
-[![Buy us a tree](https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen?style=flat-square)](https://plant.treeware.earth/freshbitsweb/laratables)
-
+[![Latest Stable Version](https://poser.pugx.org/appolous/laratables/v/stable)](https://packagist.org/packages/appolous/laratables)
+[![Total Downloads](https://poser.pugx.org/appolous/laratables/downloads)](https://packagist.org/packages/appolous/laratables)
+[![MIT Licensed](https://poser.pugx.org/appolous/laratables/license)](LICENSE.md)
+[![Buy Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://buymeacoffee.com/appolous)
 
 # Package Status
-This package is not under active development. We no longer plan to add new features.
-The main reason being that our company projects do not use Datatables anymore.
+As the original package is no longer under active development, we are updating this package just to support the latest version of Laravel. Everything else will remain the same.
 
-If you wish to maintain a fork of this package, I would be more than happy to link.
-
+Support Laravel 7.x - 11.x
 
 # Laratables
 A Laravel package to handle server side ajax of [Datatables](https://datatables.net).
