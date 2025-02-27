@@ -6,7 +6,7 @@
 # Package Status
 As the original package is no longer under active development, we are updating this package just to support the latest version of Laravel. Everything else will remain the same.
 
-Support Laravel 7.x - 11.x
+Support Laravel 7.x - 12.x
 
 # Laratables
 A Laravel package to handle server side ajax of [Datatables](https://datatables.net).
